@@ -1,0 +1,6 @@
+{
+  "name": "GameHub",
+  "description": "An interactive arcade mini-games hub featuring Tic Tac Toe, Canvas Snake, Memory Match, Cyber Quiz, Neon Breakout, and 2048 with a dedicated sound effects manager and leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
